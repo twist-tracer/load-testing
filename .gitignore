@@ -1,3 +1,9 @@
 .idea
+
+# Yandex tank
 load.yaml
 tank_errors.log
+
+# Yandex overload
+jobno_file.txt
+token.txt
